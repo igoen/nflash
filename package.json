@@ -1,7 +1,7 @@
 {
   "name": "nflash",
   "version": "0.0.1",
-  "description": "nFlash is blogging platfrom using flat-file wrap in node and mix with vue.",
+  "description": "Reserved!",
   "main": "./src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
